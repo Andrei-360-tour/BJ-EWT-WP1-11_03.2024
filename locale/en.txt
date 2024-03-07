@@ -1,0 +1,253 @@
+#: locale=en
+
+## Действие
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Медиа
+
+### Заголовок
+panorama_3B278C50_2ACF_CB68_41B0_A671CED37C06.label = BEJIL EWT Facilities
+panorama_2922EED9_1ADB_4767_41AC_EB64464CAE9F.label = BJ - Access Road "B"
+panorama_3B27DFA0_2ACE_C5DC_41BD_8B9CB8EA89F8.label = BJ EWT - OPERATION CENTER
+panorama_3B27E451_2ACE_FB61_41B7_293B99712429.label = BJ EWT OFFICES-CONTRACTOR AREA
+panorama_2925E68F_1ADE_C7FB_4186_A515483727F2.label = BJ- Access  Road "C"
+panorama_29264526_1ADE_C52C_41AD_F43AF9616BC5.label = BJ- Access  Road "C"
+panorama_2925A1E5_1ADE_BD5A_4174_803C2295DE58.label = BJ- Access  Road "C"-Emergency Gate
+panorama_293F8654_1AC6_C778_41B2_C59E6CF00F8C.label = BJ- V-Ditch
+panorama_293D72BC_1AC7_DF24_41B2_8E773F8BE284.label = BJ-Access Road
+panorama_293ED018_1AC7_5AED_41B5_3735753A7E93.label = BJ-Access Road 1
+panorama_2920C2D9_1AD9_DF64_41B3_D4A48A48A222.label = BJ-Access Road to Fire Station Shed
+panorama_293EBE02_1AC7_46E3_41B4_B7FE34737194.label = BJ-Access Road toFS-810 HP Flare Stack
+panorama_2921B13E_1AD9_DD28_41B5_CCD7592B6C23.label = BJ-Chemical Warehouse
+panorama_2922A0ED_1AD9_BB25_415E_0FCC806F7754.label = BJ-Chemical Warehouse 1
+panorama_29225FF1_1AD9_4520_41B2_237F504124CE.label = BJ-Chemical Warehouse 2
+panorama_2923CA4A_1ADA_CF69_41B2_725728CD7CC8.label = BJ-Contractor Area- Future Area
+panorama_2922CEE7_1ADB_4725_417C_061E7CC83530.label = BJ-Contractor Area- Gate
+panorama_29235AE8_1ADA_CF2D_41A9_9246FDD03B88.label = BJ-Contractor Area- Offices
+panorama_29261DE9_1ADF_4527_41B3_D986A00F9D92.label = BJ-Contractor Area--Access Road
+panorama_2925DD4A_1ADF_4566_41B2_8FD559F2FF6F.label = BJ-Contractor Area--Access Road "A"
+panorama_2925C3FB_1ADE_DD29_41A9_DBC005520DB2.label = BJ-Contractor Area--Evacuation Gate
+panorama_29258FA1_1ADF_45DB_41B3_0FDCA2827CDB.label = BJ-Contractor Area-Gate & Access Road
+panorama_2922FB87_1ADB_4DE0_419C_547547B6E429.label = BJ-Contractor Area-Muster Point
+panorama_29227D6D_1ADB_453E_4194_C16EDBEB6727.label = BJ-Contractor Area-Parking Area
+map_ACF6E0EC_195A_BCE1_41B3_B5A5731C156E.label = BJ-EWT Facility_111
+panorama_293D64B3_1AC7_FB39_41B4_53CAFE0DAF8C.label = BJ-FS-800 LP Flare Stack
+panorama_293E8DD1_1AC7_4567_418E_1B41B0B14991.label = BJ-FS-810 HP Flare Stack
+panorama_29219269_1AD9_FF25_41BA_380F3DB6895C.label = BJ-Fire Station Shed
+panorama_293E9C29_1AC7_4B21_41B4_B51C515CDFCC.label = BJ-Flare Line HP Flare Stack
+panorama_293D764B_1AC7_C76E_4169_52D806F3FD65.label = BJ-Flare Line&4" Vent Line
+panorama_293F4A62_1AC6_CF58_41A3_6708BA34C541.label = BJ-Gate To BJ EWT Facility
+panorama_293E8124_1AC7_BAD8_4198_3D08EBB9B304.label = BJ-Guard Shack
+panorama_293D5786_1AC7_C5D8_41B2_53C4AEF52E03.label = BJ-VS-830 Vent Stack
+panorama_2922843F_1AD9_5B24_41A8_79E31BBA76D3.label = BJ-WP1/11- 540 m3 Water Pit HDRE Lines (Evoporation pond)
+panorama_293E6B34_1AC7_4D39_41A9_C7D6CCA2502A.label = BJ-WP1/11- Access Road 1
+panorama_2922F685_1AD9_47EF_41AA_1F36E50D5832.label = BJ-WP1/11- Diesel Tank Foundation
+panorama_2923C484_1AD9_5BE3_41A3_702B1FEA78B8.label = BJ-WP1/11- Drop Arm Barrier
+panorama_2923D376_1AD9_5D25_41AF_99C0570EA1A9.label = BJ-WP1/11- Fire Pumps
+panorama_293D8D0D_1AC7_4AEA_41A7_DA040551DB4A.label = BJ-WP1/11- Fire Warter Pit
+panorama_293DBE09_1AC6_C6E4_41AE_0375649DAE54.label = BJ-WP1/11- Garavel Walkway
+panorama_293D8FA2_1AC6_C5DB_41A9_E85E2264402A.label = BJ-WP1/11- Overview well pad
+panorama_29231F4B_1AD9_C57A_4178_B534E6EC0062.label = BJ-WP1/11- Pig Launcher Skid
+panorama_293DC16B_1AC6_DD28_41B4_95E8642282A4.label = BJ-WP1/11- Walkway To Guard Shack
+panorama_29227472_1AD9_7B38_416A_AAF74AB4238C.label = BJ-WP1/11- Well Pad
+panorama_293D6314_1AC6_BEE7_4196_D2EE3034AA60.label = BJ-WP1/11-Access Gate
+panorama_293DDBF2_1AC7_4D22_41BA_549E1638D632.label = BJ-WP1/11-Access Gate to Fire Water Pit
+panorama_2923C5AF_1AD9_4520_41B8_A2E19ED4BE5E.label = BJ-WP1/11-Access Road
+panorama_293D097C_1AC7_4D1C_41AB_33136A18EED4.label = BJ-WP1/11-Access Road 2
+panorama_2922D53B_1AD9_451A_419D_C5AE6AEE5A33.label = BJ-WP1/11-Access Road to Evaporation Pond
+panorama_2922E937_1AD9_4D25_4192_358E96A02069.label = BJ-WP1/11-BJ-1 WellHead
+panorama_29231C87_1AD9_CBEA_41A7_0E03A06DAFC7.label = BJ-WP1/11-BJ-11 WellHead (new)
+panorama_293D4031_1AC6_FB3D_41B3_BB36F867FC8F.label = BJ-WP1/11-Guard Shack
+panorama_2922EF58_1AD9_C56C_41BA_CA75823E4371.label = BJ-WP1/11-Oil Pipeline from Well 11
+panorama_29229AEF_1AD9_CF22_41A7_BA9A2F874A5F.label = BJ-WP1/11-Old Water Pit
+panorama_29234151_1AD9_BD63_41B3_65C6FC0F0713.label = BJ-WP1/11-SK-900 Flow Line ESD Skid(Inlet Manifold)
+panorama_293F02F2_1AC9_7F27_415E_8A239AFA2F57.label = BJEWT- EDG-001A/B Emergency Diesel Generators
+panorama_2926C7ED_1AD9_C53F_41B4_1A038F3E428F.label = BJEWT- Gate
+panorama_29274E66_1ADE_C72F_41B4_90A98129F96D.label = BJEWT- H700_Heat Mtium Skid
+panorama_2926D179_1AD9_5D26_41A5_46CCD685CD87.label = BJEWT- P-320A/B/C/D Oil Loading Pumps Skid
+panorama_2927C99A_1AD9_4DE3_418C_30A2EE3235AB.label = BJEWT- Road
+panorama_292638FB_1AD9_CB2E_41AC_8DE82F20D28B.label = BJEWT- TK410_Export Tank
+panorama_29221168_1ADA_BD2F_41A1_03DD929BFB68.label = BJEWT- V-850 Tank Vent Blow Case
+panorama_29278DD7_1AD9_4561_418D_A6DE1DE9FC6F.label = BJEWT- V100 Stage-1 Separator
+panorama_2927EF72_1ADE_C523_41B0_E7E2EAAEDCA1.label = BJEWT-Emercency Diesel Generators
+panorama_29250726_1ADB_452C_41B5_9F11A8F41E6C.label = BJEWT-Footpath
+panorama_292780CC_1ADE_FB7E_41B4_5D0E71646E90.label = BJEWT-Gate &Access Road
+panorama_29228F31_1ADA_C527_41A1_B63D32FA46E6.label = BJEWT-K-810 Vapour Recovery Compressor
+panorama_2925BCEA_1ADA_CB2D_41B1_B2E5905FBA35.label = BJEWT-New Piping
+panorama_2925DBAF_1ADB_4D20_4182_EE2E5210C1FE.label = BJEWT-New Piping 1
+panorama_2926851A_1AD9_BAE6_41A1_A572B2FD77D6.label = BJEWT-P-330A/B Diesel Pump Skid
+panorama_29257E44_1ADA_C766_419F_2552009330BE.label = BJEWT-P300/301A/B,P310/311A/B Oil&Water Pumps Skid
+panorama_2925E93C_1ADB_4D26_41B7_B70FB0F0D992.label = BJEWT-Pedestrian Gate
+panorama_292733D0_1AD9_5D64_419D_81244376A15C.label = BJEWT-Piping
+panorama_29265BBF_1AD9_4D25_41A0_8A58AF11B448.label = BJEWT-TK-401 Export Tank
+panorama_2926B88C_1AD9_CBE8_4163_CDBED75199D7.label = BJEWT-TK-420 Water Storage Tank
+panorama_293E22EF_1AC9_5F25_41B8_95ABAB5C7E92.label = BJEWT-TK-720A & TK-725 Chemical Tank
+panorama_293E1304_1AC9_5EE5_41BA_748E696A2A59.label = BJEWT-TK-820 Truck H2S Scavenger Tank
+panorama_29279D67_1AD9_4520_41A7_652E04820D70.label = BJEWT-TK400 De-Emulsifcation Tank
+panorama_29268276_1AD9_7F2F_41B9_C2275DC03DFF.label = BJEWT-V-001 Slug Cather
+panorama_29254FEE_1ADA_C522_4191_C530CC5D1585.label = BJEWT-V-110 Stage-2 Separator
+panorama_2926D6D2_1AD9_C77B_418F_F8840D841F42.label = BJEWT-V-121 Oil Sample Disposal Tank
+panorama_293F640F_1AC6_BAE7_41B1_E1692D7B04B2.label = BJEWT-V-130 Flare Ko Drum
+panorama_293F2975_1AC6_CD21_41AA_5167F2F1C0A5.label = BJEWT-V-170 Flare Knockout Drum
+panorama_293F07BD_1AC6_C52B_4195_5FEEF99DABCD.label = BJEWT-V-420
+panorama_2920C329_1AD9_BD26_41BB_25F93F4B3CE8.label = BJEWT-Walkway Space
+panorama_3B2507AE_2ACF_C53A_41A5_9B0C1D91E840.label = Chemical Warenhouse
+panorama_29264909_1ADF_CAEA_41BA_CE126B28C9EB.label = ECP- Paking Area
+panorama_A86E2646_2739_C76A_41C0_E86BECF7A2B9.label = ECP-Access Asphalt Road
+panorama_2927FB3E_1ADF_CD28_41B0_94AD78BFB183.label = ECP-Access Control Office
+panorama_A86EC884_2739_4BE4_41AD_CF65D17235E5.label = ECP-Access Gate to OPF Camp
+panorama_A9F7C6F0_2739_4738_41C0_88EBDBB1025C.label = ECP-Asphalt Road
+panorama_A86E4752_2739_C56A_41C0_EF92CDAEADD9.label = ECP-Asphalt road 1
+panorama_2926DC4A_1ADF_CB6D_4190_5B8DEB90E38F.label = ECP-Drop Arm Barrier
+panorama_2926F899_1ADF_4BEF_419D_8445D2157417.label = ECP-MANDO Security Office
+panorama_A8691528_2739_452E_41C3_AD8756E15BB2.label = ECP-Main Gate to BJ EWT
+panorama_A86E3872_2739_4B20_41B2_56A15B6C85D6.label = ECP-OPF Camp
+panorama_A86E5850_2739_CB65_41C0_CF1305BE58D7.label = ECP-OPF Camp Muster Point2
+panorama_A86E6810_2739_CAF9_41BC_80E4DC4D3CD6.label = ECP-Septic Tank
+panorama_A86E7569_2739_452D_41AB_D02311A7EF8A.label = ECP-Stream
+panorama_29271E13_1ADF_46EA_41AD_60F281DEF851.label = ECP-Stream
+panorama_3B274C3E_2ACE_CB1B_41B8_C27D204B1B68.label = HP FLARE STACK FS-810
+panorama_3B24A275_2AC9_5F2D_41B7_DA48A2727846.label = LP FLARE STACK FS-800& VENT STACK VS-830
+panorama_29257D27_1ADF_C526_41BB_1CF3890FBE9B.label = Loading Station -Parking Area
+panorama_29274322_1ADE_BED8_41A7_19AF69007982.label = Loading Station- HFM-975G
+panorama_292389BB_1ADA_CD24_4192_B233C008A803.label = Loading Station- Stream
+panorama_292696C0_1ADF_4757_41A4_1032367A3849.label = Loading Station-L600-Truck Loading Station
+panorama_292347A5_1ADA_C5DB_41A9_91D6A97E370E.label = Loading Station-Loading Prnter Shack
+panorama_292685C4_1ADF_4564_41AB_EE93BE6C23B7.label = Loading Station-V-860 Loading arm vent blowcase
+panorama_292668A7_1ADF_4B2F_41B7_33A657A1D989.label = Loading Station-Weighbridge
+panorama_292641D7_1ADE_DD65_4194_4B83F2AB24AE.label = Loading Station-Z3400_Foam Deluge Skid-1
+panorama_29257480_1ADB_DBD9_41BA_4900ED088AE4.label = Operation Center- Drivers & Laborers
+panorama_2922B3D2_1ADB_FD67_4190_DCC3FAD8C3BB.label = Operation Center- Offices Area
+panorama_2922E324_1ADB_DD26_41AA_799FF8A8AD1D.label = Operation Center- Workshop
+panorama_2925B6B7_1ADB_4720_41A5_21011337D825.label = Operation Center-CMM Office
+panorama_293EED1A_1AC9_CAE7_41A0_37468F072673.label = Operation Center-Control Room
+panorama_293F2BB0_1AC9_CD22_41B3_B203983EFEAF.label = Operation Center-Control Room (COP)
+panorama_292658F3_1ADE_CB2A_41B3_04FB5451CC4D.label = Operation Center-Emergency Gate
+panorama_293F1157_1AC9_BD6C_41A1_F05512305065.label = Operation Center-Field Manager
+panorama_29220DAB_1AD9_453A_4190_9313431276EC.label = Operation Center-Fire Station Office
+panorama_29225B37_1AD9_4D2C_41B0_C5AED1CB1CB8.label = Operation Center-Fire Station Office 1
+panorama_293EBF10_1AC9_C6FC_41B9_F89EF60D02BC.label = Operation Center-HSE-Board
+panorama_29242483_1AD9_5BEA_41B0_0C50E90FA2BD.label = Operation Center-Main Gate
+panorama_293F605B_1AC9_DB6E_41A2_1080A1AE6475.label = Operation Center-Meeting Roon
+panorama_232D161B_1AD9_46E4_41B2_2482E312B717.label = Operation Center-Offices Area
+panorama_2925358C_1ADB_C5E3_41B1_2448DD91B28F.label = Operation Center-Security Coordinator Office
+panorama_2925015C_1ADB_BD68_4186_E69585D6039D.label = Operation Center-Unshelered Warehouse
+panorama_29220EE5_1AD9_472E_41AA_154039072484.label = Operation center-Water Tanks
+panorama_3B27895B_2ACF_4D18_41BF_720F340AA5D8.label = WELL PAD 1/11
+
+### Изображение
+imlevel_04694FCC_194F_C502_4194_E39FCD853EF6.url = media/map_ACF6E0EC_195A_BCE1_41B3_B5A5731C156E_en_0.jpg
+imlevel_04695FCC_194F_C502_4195_181805BD1A2E.url = media/map_ACF6E0EC_195A_BCE1_41B3_B5A5731C156E_en_1.jpg
+imlevel_046AAFCC_194F_C502_4176_52A4873BFBEA.url = media/map_ACF6E0EC_195A_BCE1_41B3_B5A5731C156E_en_2.jpg
+imlevel_046ABFCC_194F_C502_41A8_47D091ADF6EF.url = media/map_ACF6E0EC_195A_BCE1_41B3_B5A5731C156E_en_3.jpg
+imlevel_046A8FCC_194F_C502_41A7_A0DE5D64EC08.url = media/map_ACF6E0EC_195A_BCE1_41B3_B5A5731C156E_en_4.jpg
+
+### Поэтажный план
+
+## Скин
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_en.png
+Image_079D942C_1B3F_DB22_41B8_5F3681878885.url = skin/Image_079D942C_1B3F_DB22_41B8_5F3681878885_en.png
+Image_19CEA73C_195B_C561_41B8_641744E1C1CE.url = skin/Image_19CEA73C_195B_C561_41B8_641744E1C1CE_en.jpg
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_en.png
+Image_718C71CD_60B6_E5E3_41B9_105D7970318F.url = skin/Image_718C71CD_60B6_E5E3_41B9_105D7970318F_en.jpg
+Image_731CA57E_60BF_A2A1_4190_01076897586C.url = skin/Image_731CA57E_60BF_A2A1_4190_01076897586C_en.jpg
+Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F.url = skin/Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F_en.jpg
+Image_CEBEF1B7_3B4F_DD21_41C5_67B348B36F6E.url = skin/Image_CEBEF1B7_3B4F_DD21_41C5_67B348B36F6E_en.jpg
+
+### Выпадающий список
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = BJ-EWT-FACILITY
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = BJ-OPERATION CENTER
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = BJ-WELL PAD 1/11
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE.label = ENTRY CHECK POINT
+DropDown_26C82D74_194B_452C_41A1_A26660E9B84A.label = LOADING STATION
+DropDown_2362001A_1949_BB1A_415F_54297FAC16FD.label = OTHER
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = OVERVIEW
+
+### Кнопка
+Button_307CB5CF_6057_FBCC_4181_83F08F76DF2A.label = AMENITIES
+Button_307F95CE_6057_FBCC_41C7_B333F07C8122.label = Bar
+Button_307F85CE_6057_FBCC_41D3_51C00DB92A20.label = Chill Out
+Button_41E392A5_60B9_0A08_41BF_F6AAFA87203B.label = FLOORPLAN
+Button_41E3D2A5_60B9_0A08_41B7_737D4607570D.label = INFO
+Button_41E382A5_60B9_0A08_41D5_3FD188EFFDD4.label = LOCATION
+Button_718FB1CD_60B6_E5E3_41D6_BCB4CCFDFBDC.label = LOREM IPSUM
+Button_307FD5CE_6057_FBCC_41CC_536DDA444F00.label = Lobby
+Button_3CA53F6D_60CE_68CC_41D0_97234605DBC6.label = Lorem Ipsum
+Button_3C2E84AF_60CE_584B_41C3_79FAE620CCE9.label = Lorem Ipsum
+Button_3B1F3FAF_60CE_684C_41A0_AD93990FC16F.label = Lorem Ipsum
+Button_03AA7C9B_60F5_E854_41D1_C29772B2A455.label = Lorem Ipsum
+Button_307F05CE_6057_FBCC_41D6_C582E4F8D33B.label = Lorem Ipsum
+Button_3AEC57F6_60D6_67DD_41D0_694A036298AF.label = Lorem Ipsum
+Button_3B92E10A_60D6_7834_41D1_4B446F9FB434.label = Lorem Ipsum
+Button_3BBB129C_60D6_784C_41D3_B811E1E9E26B.label = Lorem Ipsum
+Button_3BC5B42E_60D6_784D_41A3_6479FA21A1A9.label = Lorem Ipsum
+Button_3BF9B800_60D6_6834_41B0_F6309500A250.label = Lorem Ipsum
+Button_3B197998_60D6_6855_41C7_99A6C32E2384.label = Lorem Ipsum
+Button_3B3C7B5C_60D6_68CD_41D1_FFB577C80ADA.label = Lorem Ipsum
+Button_0210B80A_60F5_E834_41C2_262A279EA500.label = Lorem Ipsum
+Button_030C6B04_60CA_683C_419C_6C1F0B9EB051.label = Lorem Ipsum
+Button_3C35C0B9_60CD_F854_41CA_2F187FB8960F.label = Lorem Ipsum
+Button_3C58D2BC_60CD_F84C_41D7_7CB447A7D5BF.label = Lorem Ipsum
+Button_3C70C399_60CD_F854_41D6_488C924AD534.label = Lorem Ipsum
+Button_3C69544A_60CD_F835_41CA_C7312C7B3578.label = Lorem Ipsum
+Button_3D8024FE_60CD_F9CC_41D7_A101588235F6.label = Lorem Ipsum
+Button_3DBB65DA_60CD_FBD4_41D0_4F3B5CD606A9.label = Lorem Ipsum
+Button_3DF12A63_60CD_E8FB_41D0_83B1FB2CC56F.label = Lorem Ipsum
+Button_19640B96_60CA_685C_41D0_C3EFCA646A08.label = Lorem Ipsum
+Button_023318B5_60F5_E85C_41C2_C8C50D7C368E.label = Lorem Ipsum
+Button_02C35607_60F5_D83C_41D1_3F7BE5AB7368.label = Lorem Ipsum
+Button_3CF0E1E2_60CE_5BF4_4136_3FE02552AC94.label = Lorem Ipsum
+Button_3CE40290_60CE_5854_41D7_2608A956C59B.label = Lorem Ipsum
+Button_3C1F1344_60CE_583C_419A_D3E4ACDEA010.label = Lorem Ipsum
+Button_3C374402_60CE_5834_41C7_743903F3EAD1.label = Lorem Ipsum
+Button_039B0A9C_60F5_E84C_41B4_85DA5003EEFE.label = Lorem Ipsum
+Button_3C45F5D2_60CE_5BD4_41C0_CC1810D45E29.label = Lorem Ipsum
+Button_027E69DF_60F5_EBCC_41D0_DA549FE430A5.label = Lorem Ipsum
+Button_3B3673B8_60CF_B854_41B9_8AC7249D3A1B.label = Lorem Ipsum
+Button_3B031B65_60CE_E8FC_41CF_18C07E2E58B8.label = Lorem Ipsum
+Button_3B5DCD73_60CE_E8D4_41A0_A70D622FF822.label = Lorem Ipsum
+Button_3B4F7E10_60CE_E854_41D3_4200495C04EB.label = Lorem Ipsum
+Button_3B66CEDB_60CE_E9D4_41CA_2F3DAC235546.label = Lorem Ipsum
+Button_3C96EF55_60CE_E8DC_4180_0D3CE8FCB751.label = Lorem Ipsum
+Button_3C85A007_60CE_F83B_41B9_7D30CC9CF6EC.label = Lorem Ipsum
+Button_3CC3E3ED_60CE_FFCC_41C4_C48363B62A80.label = Lorem Ipsum
+Button_025CF94C_60F5_E8CC_41C7_4B0565CACC1A.label = Lorem Ipsum
+Button_50D923F0_6061_057B_41C9_1D2D7358B7CE.label = MENU
+Button_307E25CE_6057_FBCC_41D1_E295E5C3528A.label = Main Entrance
+Button_307FF5CE_6057_FBCC_41D5_405F882ECED2.label = Meeting Area 1
+Button_307FE5CE_6057_FBCC_41D1_2DA85B874499.label = Meeting Area 2
+Button_41E3F2A5_60B9_0A08_41C3_9FE9C5047659.label = PANORAMAS
+Button_41E3A2A5_60B9_0A08_41BE_55AB547304EE.label = PHOTOS
+Button_41E3B2A5_60B9_0A08_41BC_3A36B4FAF7B8.label = REALTOR
+Button_307E65CE_6057_FBCC_41D4_18C7A0A54239.label = RECEPTION
+Button_307F25D0_6057_FBD4_41B0_5E14C1D2FC22.label = RESTAURANTS
+Button_307F45CE_6057_FBCC_41D5_FD32EE2D5A78.label = ROOMS
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.pressedLabel = Reception
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.label = Reception
+Button_307F65CF_6057_FBCC_41BB_13FA17E2C9AB.label = SPORTS AREA
+Button_307FD5CF_6057_FBCC_41D4_AEEBAD314687.label = SWIMMING POOL
+Button_307FB5CE_6057_FBCC_41AE_9BF529C6E6AF.label = Terrace
+
+### Многострочный текст
+HTMLText_731F057E_60BF_A2A1_41C8_ACE4EB05FF54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_718FA1CD_60B6_E5E3_41D3_6335BDF289A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>DOLOR SIT AME</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.720000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:4.72vmin;font-family:'Montserrat';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;"> </SPAN><SPAN STYLE="font-size:3.61vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>LOREM IPSUM:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.83vmin;font-family:'Montserrat';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_731CF57E_60BF_A2A1_41D7_B81B17089B91.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.469999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:8.47vmin;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.280000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.28vmin;font-family:'Montserrat';">Licensed Real Estate Salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Обозначение
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = COMPANY NAME
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = DOLOR SIT AMET
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = LOREM
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = RN-HARIR-BEJIL PTE.LTD
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = RN-MIDDLE EAST COMPANY LLC
+
+## Тур
+
+### Заголовок
+tour.name = BJ_EWT_PCAMP_02.2024
+
+### Описание
